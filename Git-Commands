@@ -1,0 +1,19 @@
+# Welcome Again Here The All The Requried Git And Git Hub Commands 
+
+1> mkdir "Directory Name "
+
+2> Cd "Same Directory Name"
+
+3> vi "Your File Name "
+
+4> Git init
+
+5>Git add .
+
+6> git commit -m "Hello Bro"
+
+7>git branch -M main
+
+8> git remote add origin "Your Repository Link"
+
+9> git push -u origin main
